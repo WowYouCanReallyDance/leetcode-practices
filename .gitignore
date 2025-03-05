@@ -1,0 +1,17 @@
+# === Rust项目 ===
+/target/
+Cargo.lock
+
+# === IDE/编辑器 ===
+.vscode/
+.idea/
+*.swp
+*~
+
+# === 系统文件 ===
+.DS_Store
+Thumbs.db
+
+# === 日志与调试 ===
+*.log
+/debug/
